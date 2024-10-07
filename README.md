@@ -20,4 +20,6 @@ The ET-DGaze dataset is available for researchers for non-profit, non-commercial
 Some sample image of this dataset is given below.
 
 ![4681](https://github.com/user-attachments/assets/944c3f77-7ec0-47c4-a8db-e321170fbdc4)
-
+Label : Forward
+![frame10](https://github.com/user-attachments/assets/89cf5265-ac94-4ad3-8eb9-75d6540af64e)
+Label : Rear view mirror
