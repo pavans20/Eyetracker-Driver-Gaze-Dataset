@@ -17,3 +17,7 @@ Right side window
 Right wing mirror
 The ET-DGaze dataset is available for researchers for non-profit, non-commercial research purposes. Interested researchers can request access by emailing us at pavans20@iitk.ac.in.
 
+Some sample image of this dataset is given below.
+
+![4681](https://github.com/user-attachments/assets/944c3f77-7ec0-47c4-a8db-e321170fbdc4)
+
