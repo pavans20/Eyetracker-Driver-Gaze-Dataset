@@ -1,5 +1,5 @@
 # Driver Gaze Data Collection and Annotation 
-The driver gaze data collection experiment was conducted in the Transportation Engineering Lab of the Department of Civil Engineering at IIT Kanpur. A benchmark driver gaze dataset was created using eyetracker the details of which are given below.
+The driver gaze data collection experiment was conducted in the Transportation Engineering Lab of the Department of Civil Engineering at IIT Kanpur. A benchmark driver gaze dataset was created using eyetracker, the details of which are given below.
 
 ## ET-DGaze: Eyetracker based Driver Gaze Dataset. 
 The ET-DGaze dataset is one of the first driver gaze datasets where gaze annotations were derived from eye tracker outputs. The data was collected inside a stationary vehicle under varying lighting conditions on the driver’s face. The dataset comprises 12,000 labeled images from 40 participants (36-Male, 4-Female), with the driver’s gaze classified into nine distinct zones, covering areas such as the windshield and dashboard—typical regions drivers look at during driving.
