@@ -1,8 +1,8 @@
-# Eyetracker-Driver-Gaze-Dataset
-ET-DGaze
+# Driver Gaze Data Collection and Annotation 
+The driver gaze data collection experiment was conducted in the Transportation Engineering Lab of the Department of Civil Engineering at IIT Kanpur. A benchmark driver gaze dataset was created using eyetracker the details of which are given below.
 
-## ET-DGaze: ET-DGaze stand for Eyetracker Driver Gaze Dataset. 
-The ET-DGaze dataset is one of the pioneering driver gaze datasets where gaze annotations were derived from eye tracker outputs. The data was collected inside a stationary vehicle under varying lighting conditions on the driver’s face. The dataset comprises 12,000 labeled images from 40 participants, with the driver’s gaze classified into nine distinct zones, covering areas such as the windshield and dashboard—typical regions drivers look at during driving.
+## ET-DGaze: Eyetracker based Driver Gaze Dataset. 
+The ET-DGaze dataset is one of the first driver gaze datasets where gaze annotations were derived from eye tracker outputs. The data was collected inside a stationary vehicle under varying lighting conditions on the driver’s face. The dataset comprises 12,000 labeled images from 40 participants (36-Male, 4-Female), with the driver’s gaze classified into nine distinct zones, covering areas such as the windshield and dashboard—typical regions drivers look at during driving.
 
 The dataset is organized into nine folders labeled 1 to 9, each corresponding to a specific gaze zone:
 
@@ -23,3 +23,4 @@ Some sample image of this dataset is given below.
 Label : Forward
 ![frame10](https://github.com/user-attachments/assets/89cf5265-ac94-4ad3-8eb9-75d6540af64e)
 Label : Rear view mirror
+
