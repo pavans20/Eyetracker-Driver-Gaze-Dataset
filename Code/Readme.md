@@ -8,15 +8,15 @@ https://docs.ultralytics.com/models/yolov4/
 
 In our study face detector was used to obtain the face bounding box coordinate which was further used for head pose Estimation.
 ![frame1](https://github.com/user-attachments/assets/a78a040a-fc41-47ca-a6dc-5fbea5982746)
-Fig.1 Face bounding box 
+Fig.1 Face bounding box.
 
 
 ##Headpose Estimation:
-In this study head pose was measured in terms of Euler Angle (Yaw, Pitch, Roll) using Hopenet Algorithm. Details of Hopenet is given in original github given in the following Link.
+In this study head pose was measured in terms of Euler Angle (Yaw, Pitch, Roll as shown in Fig.2 represent by different color) using Hopenet Algorithm. Details of Hopenet is given in original github given in the following Link.
 https://github.com/natanielruiz/deep-head-pose
 
 ![Picture1](https://github.com/user-attachments/assets/14d4e9ff-c7b1-4342-92ba-7856d2cb60c2)
-Fig.2 Face bounding box and headpose (yaw, pitch and, roll represented by three different color)
+Fig.2 Face bounding box and headpose.
 
 We have also upload a folder Headpose_Estimation in which face was detected using Yolov4 custom made face detector and further face detected coordinate was used for headpose estimation.  
 ##Pupil Detection:
@@ -24,6 +24,6 @@ Pupil was detected using  pupil detector. Python code of pupil detection origina
 https://github.com/pupil-labs/pupil-detectors
 
 ![image](https://github.com/user-attachments/assets/278771f7-d9be-4350-a0f8-c1e48cb9198f)
-Fig. 3 Detected Pupil (Eye image capture from pupil invisible eye glasses)
+Fig. 3 Detected Pupil
 
 Folder Pupil_Detection contain modified code of pupil detection which was original given in the above link. 
