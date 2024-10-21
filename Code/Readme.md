@@ -15,15 +15,20 @@ Fig.1 Face bounding box.
 In this study head pose was measured in terms of Euler Angle (Yaw, Pitch, Roll as shown in Fig.2 represent by different color) using Hopenet Algorithm. Details of Hopenet is given in original github given in the following Link.
 https://github.com/natanielruiz/deep-head-pose
 
+We have also upload a folder Headpose_Estimation in which face was detected using Yolov4 custom made face detector and further face detected coordinate was used for headpose estimation.
+
 ![Picture1](https://github.com/user-attachments/assets/14d4e9ff-c7b1-4342-92ba-7856d2cb60c2)
 Fig.2 Face bounding box and headpose.
 
-We have also upload a folder Headpose_Estimation in which face was detected using Yolov4 custom made face detector and further face detected coordinate was used for headpose estimation.  
+
+  
 ##Pupil Detection:
 Pupil was detected using  pupil detector. Python code of pupil detection originally present in the following link.
 https://github.com/pupil-labs/pupil-detectors
 
+Folder Pupil_Detection contain modified code of pupil detection which was original given in the above link. 
+
 ![image](https://github.com/user-attachments/assets/278771f7-d9be-4350-a0f8-c1e48cb9198f)
 Fig. 3 Detected Pupil
 
-Folder Pupil_Detection contain modified code of pupil detection which was original given in the above link. 
+
