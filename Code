@@ -1,1 +1,13 @@
+We have primary used python language for preprocessing and analysis data for plotting different graphs such as bar chart, confusion matrix etc.
+For Manual Annotation Misclassification analysis following code was used for face detection, head pose estimation, and pupil detection.
+Face Detect:
+We have created our own face detector using YOLOV4.
+https://docs.ultralytics.com/models/yolov4/
+In our study face detector was used to obtain the face bounding box coordinate which was further used for head pose Estimation.
+Head pose Estimation:
+In this study head pose was measured in terms of Euler Angle (Yaw, Pitch, Roll) using Hopenet Algorithm. Details of Hopenet is given in following Link.
+https://github.com/natanielruiz/deep-head-pose
 
+Pupil Detection:
+Pupil was detected using pupil lab pupil detector, python package. Python code of pupil detection originally present in the following link.
+https://github.com/pupil-labs/pupil-detectors
