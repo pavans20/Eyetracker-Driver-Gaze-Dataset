@@ -1,5 +1,5 @@
 # Driver Gaze Data Collection and Annotation 
-The driver gaze data collection experiment was conducted in the Transportation Engineering Lab of the Department of Civil Engineering at IIT Kanpur. A benchmark driver gaze dataset was created using eyetracker, the details of which are given below. Also the link of face came video and rear cam video which are available on YouTube is given below.//
+The driver gaze data collection experiment was conducted in the Transportation Engineering Lab of the Department of Civil Engineering at IIT Kanpur. A benchmark driver gaze dataset was created using eyetracker, the details of which are given below. Also the link of sample face came video and rear cam video which are available on YouTube is given here.//
 Face cam video: https://youtu.be/YmB2PpPveDo
 Rear cam video: https://youtu.be/6cSBbzvAG3g
 
